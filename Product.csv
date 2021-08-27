@@ -1,0 +1,13 @@
+﻿Product_id,Name,Price,Category
+1,Noodles,5,Food
+2,Rice,29,Food
+3,Spaghetti,10,Food
+4,Winter Jacket,50,Clothes
+5,Tank Top,12,Clothes
+6,Sweater,34,Clothes
+7,Boots,70,Footwear
+8,Sandals,30,Footwear
+9,Trainers,50,Footwear
+10,Jewelry,100,Accessories
+11,Wrist Watch,120,Accessories
+12,Phone Case,30,Accessories
